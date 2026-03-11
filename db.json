@@ -1,10 +1,11 @@
 {
-  "DateOfBirth": [
+  "client": [
     {
       "id": 1,
       "ClientID": "1234567",
       "ErrorCode": "0",
-      "Exists": "1"
+      "Exists": "1",
+      "Balance": "1 000 000"
     }
   ]
 }
