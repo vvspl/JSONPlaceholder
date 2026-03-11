@@ -1,5 +1,10 @@
 {
-  "ClientID": "1234567",
-  "ErrorCode": "0",
-  "Exists": "1",
+  "DateOfBirth": [
+    {
+      "id": 1,
+      "ClientID": "1234567",
+      "ErrorCode": "0",
+      "Exists": "1"
+    }
+  ]
 }
